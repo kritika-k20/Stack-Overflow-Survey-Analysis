@@ -9,10 +9,10 @@ Stack Overflow, the go-to platform for developers, conducted a global survey to 
 * This project aims to provide insights into the most popular programming languages, platforms, databases and frameworks, as well as the challenges and opportunities developers face today by analyzing the survey data.
 
 ### Technologies Used:
-Excel, Python, SQL, Cognos Analytics, Python libraries like Pandas, NumPy, Seaborn, Matplotlib
+Python, SQL, Cognos Analytics, Looker Studio, Python libraries like Pandas, NumPy, Seaborn, Matplotlib
 
 ### Methodologies Used:
-Data Cleaning, Data Manipulation, Data Analysis, Statistical Analysis, Data Visualization, Dashboards
+Data Cleaning, Data Manipulation, Data Analysis, Data Visualization, Dashboards
 
 ### What this Analysis tells us:
 * The analysis helped us understand the key trends in the market interest for technology usage.​
