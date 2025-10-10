@@ -1,10 +1,10 @@
-# Stack Overflow Survey
+# Stack Overflow Survey Analysis
 
 ## About the dataset
 Stack Overflow, the go-to platform for developers, conducted a global survey to capture insights into the developer community. This survey includes various questions related to professional experience, coding activities, tools, technologies, and preferences. The dataset offers important information about the current state of software development worldwide.
 
 ## About the project
-* In this project, I worked with over 65k records to explore, analyze, and visualize trends in programming languages, databases, platforms, and web frameworks. I also examined demographic trends.
+* In this project, I worked with over 65k+ records to explore, analyze, and visualize trends in programming languages, databases, platforms, and web frameworks. I also examined demographic trends.
 * The survey data consists of responses from developers with diverse professional backgrounds, educational levels, and geographic locations.
 * This project aims to provide insights into the most popular programming languages, platforms, databases and frameworks, as well as the challenges and opportunities developers face today by analyzing the survey data.
 
